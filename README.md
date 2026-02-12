@@ -15,31 +15,32 @@ Features
 		<li>user profile pic</li>
 		<li>User profile pages show history of posts</li>
 	</ul>
-		
 </li>
 		
 <li>Each post contains
 		<ul>
 			<li>160 character limited text field</li>
 			<li>shows likes & location below</li>
-			<li></ul>replies below that</li>
+			<li>replies below that</li>
 		</ul>
 </li>
+
 <li>GPS connectivity for location services</li>
 </ul>
 
 
 Similar to X, yes. Different from X (the artist formerly known as Twitter) in character count (as of 2017) and location based services.
-
 Target Audience: young adults, primarily. Why -> To share their thoughts and feelings in an more interactive. You have to be there to talk about it.
 
+Sprints
+<ol>
+<li>Establish webpage architecture. Home page, login page, user page. Theme kept minimal across all pages for sake of functionality.</li>
 
-First sprint plan: Establish webpage architecture. Home page, login page, user page. Theme kept minimal across all pages for sake of functionality. 
+<li>logging in\logging out. GPS services</li>
 
-Second sprint plan: logging in\logging out. GPS services
+<li>GPS services. Establish posting architecture</li>
 
-Third sprint plan: GPS services. Establish posting architecture
+<li>Establish post interaction architecture (likes, reblogs, replies)</li>
 
-Fourth sprint plan: Establish post interaction architecture (likes, reblogs, replies)
-
-Fifth sprint plan: Polish look and feel
+<li>Polish look and feel</li>
+</ol>
