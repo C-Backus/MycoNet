@@ -1,24 +1,32 @@
-Location based microblogging social network.
+Location based microblogging social network.<br>
 
 Borrowing a bit from Twitter: short character limit, replies, likes, reblog function (e.g., retweet)
 However, location based means that a user can only see & interact with posts from other users within a specific predefined radius.
 
 Features
-	Posts are not anonymous
+<ul>
+<li>Posts are not anonymous</li>
   
-  User profile
-		username
-		email
-		password
-		user profile pic 
-		User profile pages show history of posts
-
-  Each post contains
-		160 character limited text field
-		shows likes & location below 
-		replies below that
-	
-  GPS connectivity for location services
+<li>User profile
+	<ul>
+		<li>username</li>
+		<li>email</li>
+		<li>password</li>
+		<li>user profile pic</li>
+		<li>User profile pages show history of posts</li>
+	</ul>
+		
+</li>
+		
+<li>Each post contains
+		<ul>
+			<li>160 character limited text field</li>
+			<li>shows likes & location below</li>
+			<li></ul>replies below that</li>
+		</ul>
+</li>
+<li>GPS connectivity for location services</li>
+</ul>
 
 
 Similar to X, yes. Different from X (the artist formerly known as Twitter) in character count (as of 2017) and location based services.
