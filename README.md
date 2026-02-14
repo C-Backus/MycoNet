@@ -1,6 +1,10 @@
-<h1>Location based microblogging social network</h1>
+<h1>MycoNet U+1F344</h1>
 
-This application will allow users to share text posts to a public feed of posts that are tied to a specific region. This region is set to a predefined radius and only users in that radius can see the posts that were posted in that region. Users will be able to interact with other users' posts by replying to it, "liking" it, or reblogged it themselves. All user post history will be shown on that user's profile page, regardless of their location.
+<h2>Location based microblogging social network</h2>
+
+This application will allow users to share text posts to a public feed of posts that are tied to a specific geographic region. This region is set to a predefined radius and only users in that radius can see the posts that were posted in that region. Users will be able to interact with other users' posts by replying to it, "liking" it, or reblogged it themselves. All user post history will be shown on that user's profile page, regardless of their location.
+
+Posts will be text only on launch, with a follow-on goal of supporting photos and videos.
 
 Borrowing a bit from X (the artist formerly known as Twitter): short character limit, replies, likes, reblog function (e.g., retweet).
 However, location based means that a user can only see & interact with posts from other users within a specific predefined radius.
