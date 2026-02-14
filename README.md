@@ -1,4 +1,4 @@
-<h1>MycoNet U+1F344</h1>
+<h1>MycoNet &#127812;</h1>
 
 <h2>Location based microblogging social network</h2>
 
