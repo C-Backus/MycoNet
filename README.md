@@ -1,4 +1,4 @@
-<h1>MycoNet &#127812; &#x1F344;</h1>
+<h1>MycoNet &#127812;</h1>
 
 <h2>Location based microblogging social network</h2>
 
@@ -7,7 +7,7 @@ This application will allow users to share text posts to a public feed of posts 
 Posts will be text only on launch, with a follow-on goal of supporting photos and videos.
 
 Borrowing a bit from X (the artist formerly known as Twitter): short character limit, replies, likes, reblog function (e.g., retweet).
-However, location based means that a user can only see & interact with posts from other users within a specific predefined radius.
+However, location based means that a user can only see & interact with posts from other users within a specific region.
 
 <h3>Features</h3>
 <ul>
@@ -45,7 +45,7 @@ Why? To share their thoughts and feelings in an interactive way. You have to be 
 
 <li>logging in\logging out. GPS services</li>
 
-<li>GPS services. Establish posting architecture</li>
+<li>Finish GPS services. Establish posting architecture</li>
 
 <li>Establish post interaction architecture (likes, reblogs, replies)</li>
 
