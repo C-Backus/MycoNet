@@ -90,19 +90,7 @@ button {
     margin-top: 5px;
 }
 
-/*hides post feed header*/
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    padding: 0;
-    overflow: hidden;
-    clip: rect(0 0 0 0);
-    border: 0;
-}
-
-/*for login & register page*/
+/*for login & register pages*/
 .auth-page {
     display: flex;
     justify-content: center;
